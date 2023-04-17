@@ -1,5 +1,6 @@
 # Restaurant Page
 This is a simple website for a restaurant built using webpack and JavaScript.
+Check it out [here](https://lionsharezoki.github.io/restaurant/) 
 
 ## How to Run
 To run this project, you need to have Node.js installed on your machine. Then, follow these steps:
