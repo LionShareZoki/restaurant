@@ -5,8 +5,8 @@ This is a simple website for a restaurant built using webpack and JavaScript.
 To run this project, you need to have Node.js installed on your machine. Then, follow these steps:
 
 Clone the repository to your local machine
-1. Run 'npm install' to install the required dependencies
-2. Run 'npm run build' to build the project
+1. Run `npm install` to install the required dependencies
+2. Run `npm run build` to build the project
 3. Open the index.html file in your browser to view the site.
 
 ## Features
